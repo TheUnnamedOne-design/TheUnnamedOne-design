@@ -4,16 +4,15 @@
 <!--                         BANNER                                  -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║              A D I T Y A   N   B H A N D A R I              ║
-║                                                              ║
-║    Software Engineering  ·  Operating Systems                ║
-║    Distributed Systems   ·  Computational Research           ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<h1 align="center">Aditya N Bhandari</h1>
+
+<p align="center">
+Software Engineering • Operating Systems • Distributed Systems
+</p>
+
+<p align="center">
+Computational Research • Machine Learning • Backend Development
+</p>
 
 <!-- ════════════════════════════════════════════════════════════════ -->
 <!--                    ANIMATED TYPING SVG                          -->
