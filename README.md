@@ -85,7 +85,7 @@
 
 ## About Me
 
-- Third-year B.Tech Computer Science student at **VIT Chennai**.
+- Fourth-year B.Tech Computer Science student at **VIT Chennai**.
 - Passionate about **software engineering**, **operating systems**, **system design**, and **distributed systems**.
 - **Published researcher** with interests spanning operating systems, graph theory, computational chemistry, and machine learning.
 - Interested in research in **computational physics**, **computational chemistry**, and **predictive modelling**.
