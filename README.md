@@ -181,45 +181,23 @@ Computational Research • Machine Learning • Backend Development
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATISTICS                            -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
 ## GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TheUnnamedOne-design&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=TheUnnamedOne-design&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"
+  alt="GitHub Stats"
+/>
+
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheUnnamedOne-design&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=TheUnnamedOne-design&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Aditya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheUnnamedOne-design&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheUnnamedOne-design&theme=tokyonight)
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheUnnamedOne-design&theme=tokyonight" height="150"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheUnnamedOne-design&theme=tokyonight" height="150"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheUnnamedOne-design&theme=tokyonight&utcOffset=5.5" height="150"/>
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheUnnamedOne-design&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  alt="Top Languages"
+/>
 
 </div>
 
