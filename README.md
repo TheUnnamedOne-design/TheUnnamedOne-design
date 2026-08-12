@@ -431,12 +431,19 @@ An enterprise-grade real-time collaboration platform with integrated network top
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheUnnamedOne-design&theme=tokyo-night&hide_border=true&area=true&area_color=58A6FF&line=58A6FF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- Snake animation renders after you add the GitHub Actions workflow. -->
-<!-- See setup instructions at the bottom of this README.             -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheUnnamedOne-design/TheUnnamedOne-design/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheUnnamedOne-design/TheUnnamedOne-design/output/github-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/TheUnnamedOne-design/TheUnnamedOne-design/output/github-snake-dark.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/TheUnnamedOne-design/TheUnnamedOne-design/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/TheUnnamedOne-design/TheUnnamedOne-design/output/github-snake.svg"
+  />
+  <img
+    alt="Contribution Snake"
+    src="https://raw.githubusercontent.com/TheUnnamedOne-design/TheUnnamedOne-design/output/github-snake.svg"
+  />
 </picture>
 
 </div>
