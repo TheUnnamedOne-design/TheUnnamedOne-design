@@ -188,15 +188,15 @@ Computational Research • Machine Learning • Backend Development
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/TheUnnamedOne-design/TheUnnamedOne-design/main/profile/streak-dark.svg"
+    srcset="./profile/streak-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/TheUnnamedOne-design/TheUnnamedOne-design/main/profile/streak-light.svg"
+    srcset="./profile/streak-light.svg"
   />
   <img
     width="90%"
-    src="https://raw.githubusercontent.com/TheUnnamedOne-design/TheUnnamedOne-design/main/profile/streak-light.svg"
+    src="./profile/streak-light.svg"
     alt="GitHub Streak"
   />
 </picture>
