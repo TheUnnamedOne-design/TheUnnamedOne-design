@@ -198,7 +198,7 @@ Computational Research • Machine Learning • Backend Development
     srcset="https://github-readme-stats-3h14.vercel.app/api?username=TheUnnamedOne-design&show_icons=true&hide_border=true&count_private=true&rank_icon=github&bg_color=FFFFFF&title_color=2563EB&text_color=57606A&icon_color=7C3AED"
   />
   <img
-    height="180"
+    width="500"
     src="https://github-readme-stats-3h14.vercel.app/api?username=TheUnnamedOne-design&show_icons=true&hide_border=true&count_private=true&rank_icon=github&bg_color=FFFFFF&title_color=2563EB&text_color=57606A&icon_color=7C3AED"
     alt="GitHub Statistics"
   />
@@ -217,7 +217,7 @@ Computational Research • Machine Learning • Backend Development
     srcset="https://github-readme-stats-3h14.vercel.app/api/top-langs/?username=TheUnnamedOne-design&layout=compact&hide_border=true&langs_count=8&bg_color=FFFFFF&title_color=2563EB&text_color=57606A"
   />
   <img
-    height="180"
+    width="500"
     src="https://github-readme-stats-3h14.vercel.app/api/top-langs/?username=TheUnnamedOne-design&layout=compact&hide_border=true&langs_count=8&bg_color=FFFFFF&title_color=2563EB&text_color=57606A"
     alt="Top Languages"
   />
