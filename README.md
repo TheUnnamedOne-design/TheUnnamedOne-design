@@ -240,7 +240,7 @@ Computational Research • Machine Learning • Backend Development
 </picture>
 
 </div>
----
+
 
 <!-- ════════════════════════════════════════════════════════════════ -->
 <!--                    FEATURED PROJECTS                            -->
