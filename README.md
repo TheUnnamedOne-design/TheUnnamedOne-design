@@ -180,27 +180,66 @@ Computational Research • Machine Learning • Backend Development
 </details>
 
 ---
-
-## GitHub Statistics
+## GitHub Analytics
 
 <div align="center">
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=TheUnnamedOne-design&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"
-  alt="GitHub Stats"
-/>
+<!-- GitHub Streak -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/TheUnnamedOne-design/TheUnnamedOne-design/main/profile/streak-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/TheUnnamedOne-design/TheUnnamedOne-design/main/profile/streak-light.svg"
+  />
+  <img
+    width="90%"
+    src="https://raw.githubusercontent.com/TheUnnamedOne-design/TheUnnamedOne-design/main/profile/streak-light.svg"
+    alt="GitHub Streak"
+  />
+</picture>
+
+<br><br>
+
+<!-- GitHub Statistics -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-3h14.vercel.app/api?username=TheUnnamedOne-design&show_icons=true&hide_border=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=A371F7"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats-3h14.vercel.app/api?username=TheUnnamedOne-design&show_icons=true&hide_border=true&count_private=true&rank_icon=github&bg_color=FFFFFF&title_color=2563EB&text_color=57606A&icon_color=7C3AED"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats-3h14.vercel.app/api?username=TheUnnamedOne-design&show_icons=true&hide_border=true&count_private=true&rank_icon=github&bg_color=FFFFFF&title_color=2563EB&text_color=57606A&icon_color=7C3AED"
+    alt="GitHub Statistics"
+  />
+</picture>
 
 &nbsp;
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheUnnamedOne-design&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  alt="Top Languages"
-/>
+<!-- Top Languages -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-3h14.vercel.app/api/top-langs/?username=TheUnnamedOne-design&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=8B949E"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats-3h14.vercel.app/api/top-langs/?username=TheUnnamedOne-design&layout=compact&hide_border=true&langs_count=8&bg_color=FFFFFF&title_color=2563EB&text_color=57606A"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats-3h14.vercel.app/api/top-langs/?username=TheUnnamedOne-design&layout=compact&hide_border=true&langs_count=8&bg_color=FFFFFF&title_color=2563EB&text_color=57606A"
+    alt="Top Languages"
+  />
+</picture>
 
 </div>
-
 ---
 
 <!-- ════════════════════════════════════════════════════════════════ -->
